@@ -37,41 +37,95 @@ Por pertinência, também foi incorporado textos bíblicos para que a relação 
   <sub><em>Imagem 4</em></sub>
 </p>
 
-Essa fonte, a página "pai" não pode ser usada.
+Essa fonte, a página "pai", não pode ser usada.
 
-[Imagem 5] 
+<p align="center">
+  <img src="imagens/imagem5.png" width="700">
+</p>
+<p align="center">
+  <sub><em>Imagem 5 – Seleção dos capítulos pelo ChatGPT</em></sub>
+</p> 
 
 Como era o plano gratuito, não podia extrapolar o limite de cinquenta fontes. Considerando o que tinha já no material, cinco fontes (excluindo o resumo do deep research), e por precaução caso surgisse outras ideias de fonte, o número de quarenta capítulos foi considerado bom. Aqui já houve uso de engenharia de prompts, que faria diferença principalmente para inserir os URLs. 
 
-[Imagem 6] 
+<p align="center">
+  <img src="imagens/imagem6.png" width="700">
+</p>
+<p align="center">
+  <sub><em>Imagem 6</em></sub>
+</p>
 
 O resultado foi exatamente o esperado. Entretanto, foi preciso retirar os números na frente de cada fonte para inserção. 
 
-[Imagem 7] 
+<p align="center">
+  <img src="imagens/imagem7.png" width="700">
+</p>
+<p align="center">
+  <sub><em>Imagem 7</em></sub>
+</p>
 
 Mas ao tentar com as quarenta fontes de uma vez, a aplicação deu erro, um carregamento infinito e depois de atualizar a página, o resultado na imagem a seguir, links não incorporados e mensagem de erro. 
 
-[Imagem 8] 
+<p align="center">
+  <img src="imagens/imagem8.png" width="700">
+</p>
+<p align="center">
+  <sub><em>Imagem 8</em></sub>
+</p>
 
 Como alternativa para solucionar esse problema foram divididos de dez em dez links para que a tarefa fosse mais leve, deduzindo ser esse o motivo do erro. E realmente funcionou, os links foram adicionados com mais rapidez até. O que ajudou nessa etapa foi a aba de “Notas” no menu inferior direito, em que é possível manipular texto, fazer rascunhos e até incorporar como fonte. 
 
-[Imagem 9] 
+<p align="center">
+  <img src="imagens/imagem9.png" width="700">
+</p>
+<p align="center">
+  <sub><em>Imagem 9 – Divisão dos links em grupos, usando uma nota</em></sub>
+</p> 
 
-[Imagem 10] 
+<p align="center">
+  <img src="imagens/imagem10.png" width="700">
+</p>
+<p align="center">
+  <sub><em>Imagem 10 - Grupo de dez links adicionados</em></sub>
+</p> 
 
 Mesmo assim o erro persistiu no último grupo de links e ainda informando que “Seu notebook atingiu o limite de fontes”, o que de fato não aconteceu. 
 
-[Imagem 11] 
+<p align="center">
+  <img src="imagens/imagem11.png" width="700">
+</p>
+<p align="center">
+  <sub><em>Imagem 11 – Novamente erro na inserção</em></sub>
+</p> 
 
 Ocorreu um pouco de confusão sobre qual fonte tinha de fato entrado ou não, foi solicitado à própria IA do notebook para chegar qual não tinha sido inserida. 
 
-[Imagem 12] 
+<p align="center">
+  <img src="imagens/imagem12.png" width="700">
+</p>
+<p align="center">
+  <sub><em>Imagem 12 – Questionamento das fontes à IA</em></sub>
+</p> 
 
-[Imagem 13] 
+<p align="center">
+  <img src="imagens/imagem13.png" width="700">
+</p>
+<p align="center">
+  <sub><em>Imagem 13 – Resposta da IA</em></sub>
+</p>
+
+Então se dividiu novamente esse grupo de dez em três e duas fontes e foram inseridas separadamente. Então as fontes foram inseridas com sucesso.
 
 Por teste, inseriu-se uma fonte duplicada. Resultou apenas que aparece mais de uma vez, mas no desenvolvimento da IA não se tem conhecimentos dos efeitos. 
 
-[Imagem 14] 
+<p align="center">
+  <img src="imagens/imagem14.png" width="700">
+</p>
+<p align="center">
+  <sub><em>Imagem 14 – Teste de inserção duplicada</em></sub>
+</p>
+
+---
 
 Obs: A tradução NVI foi usada por conta de seu rigor no processo de tradução. Mais informações sobre podem ser consultadas em: https://www.biblica.com/niv-bible/niv-bible-translation-process/ 
 
