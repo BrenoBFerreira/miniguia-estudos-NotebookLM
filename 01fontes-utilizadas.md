@@ -125,17 +125,17 @@ Por teste, inseriu-se uma fonte duplicada. Resultou apenas que aparece mais de u
   <sub><em>Imagem 14 – Teste de inserção duplicada</em></sub>
 </p>
 
----
-
 Obs: A tradução NVI foi usada por conta de seu rigor no processo de tradução. Mais informações sobre podem ser consultadas em: https://www.biblica.com/niv-bible/niv-bible-translation-process/ 
 
 No fim de toda a seleção e incorporação de fontes, o resultado contou com quarenta e cinco fontes no total. Algumas das fontes: 
 
-Primeira carta de Paulo aos coríntios (cap. 1): https://www.bibliaonline.com.br/nvi/1co/1 
+- Primeira carta de Paulo aos coríntios (cap. 1): https://www.bibliaonline.com.br/nvi/1co/1 
 
-Atos dos Apóstolos (cap.9): https://www.bibliaonline.com.br/nvi/atos/9 
+- Atos dos Apóstolos (cap.9): https://www.bibliaonline.com.br/nvi/atos/9 
 
-Guia curricular que examina a trajetória da Igreja Católica na América Latina: https://teachersinstitute.yale.edu/curriculum/units/1982/5/82.05.07.x.html 
+- Guia curricular que examina a trajetória da Igreja Católica na América Latina: https://teachersinstitute.yale.edu/curriculum/units/1982/5/82.05.07.x.html 
+
+---
 
 ⬅️ [Anterior: Introdução](01-introducao.md) | ➡️ [Próximo: Execução](03-execucao.md)
 
