@@ -2,26 +2,42 @@
 
 Esta foi a etapa de curadoria de fontes para a criação do notebook.
 
-Para fins de rapidez no encontro de fontes, fora utilizado o próprio recurso da ferramenta, “Pesquisa do Deep Research” com a frase exata do tema como entrada (“Como Paulo de Tarso contribui para a chegado do cristianismo até o Brasil”):
+Para fins de rapidez no encontro de fontes, fora utilizado o próprio recurso da ferramenta, “Pesquisa do Deep Research” com a frase exata do tema como entrada (“Como Paulo de Tarso contribui para a chegado do cristianismo até o Brasil”).
 
 <p align="center">
   <img src="imagens/imagem1.png" width="500">
 </p>
 <p align="center">
-  <sub><em>Figura 1 – Pesquisa "Deep Research"</em></sub>
+  <sub><em>Imagem 1 – Pesquisa "Deep Research"</em></sub>
 </p>
 
-O retorno apresentou estudos que envolviam o enfoque na colonização e missões jesuítas no Brasil. O resumo gerado foi de grande importância para a avaliação da incorporação ou não da fonte. 
+O retorno apresentou estudos que envolviam o enfoque na colonização e missões jesuítas no Brasil. O resumo gerado foi de grande importância para a avaliação da incorporação ou não das fontes. 
 
-[Imagem 2] 
+<p align="center">
+  <img src="imagens/imagem2.png" width="500">
+</p>
+<p align="center">
+  <sub><em>Imagem 2 – Resumo do Deep Research</em></sub>
+</p>
 
 Por pertinência, também foi incorporado textos bíblicos para que a relação fosse feita não só em fatos históricos, mas em aspectos religiosos. Porém os livros não foram encontrando inteiros, mas com cada capítulo em uma página web. Por conta disso e pela forma como as fontes são tratadas, a inteligência artificial não indo além do URL fornecido adentrando em tópicos, teve de se utilizar apenas os capítulos dos livros com maior importância (URLs de cada um). A seleção dos capítulos foi com base em uma pergunta a outra IA (ChatGPT) e em conhecimentos pessoais. 
 
-[Imagem 3] 
+<p align="center">
+  <img src="imagens/imagem3.png" width="700">
+</p>
+<p align="center">
+  <sub><em>Imagem 3 – Página web com os capítulos em subpáginas</em></sub>
+</p>
 
-[Imagem 4] 
 
-Essa fonte das imagens foi excluída 
+<p align="center">
+  <img src="imagens/imagem4.png" width="700">
+</p>
+<p align="center">
+  <sub><em>Imagem 4</em></sub>
+</p>
+
+Essa fonte, a página "pai" não pode ser usada.
 
 [Imagem 5] 
 
