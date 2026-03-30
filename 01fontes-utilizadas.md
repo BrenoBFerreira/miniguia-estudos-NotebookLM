@@ -137,6 +137,6 @@ No fim de toda a seleção e incorporação de fontes, o resultado contou com qu
 
 ---
 
-⬅️ [Anterior: Introdução](01-introducao.md) | ➡️ [Próximo: Execução](03-execucao.md)
+⬅️ [Anterior: README](README.md) | ➡️ [Próximo: Miniguia de Estudos](03-execucao.md)
 
 🏠 [Voltar ao Sumário](README.md)
